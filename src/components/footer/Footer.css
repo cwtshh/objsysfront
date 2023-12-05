@@ -1,0 +1,19 @@
+footer {
+    background-color: #1B262C;
+    height: 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+
+footer img {
+    max-width: 159px;
+}
+
+footer p {
+    width: 1000px;
+    color: #ffffff71;
+    text-align: center;
+}

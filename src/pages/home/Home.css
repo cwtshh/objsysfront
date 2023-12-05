@@ -1,0 +1,10 @@
+.home {
+    padding-top: 20px;
+}
+
+.group-section {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}

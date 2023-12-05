@@ -1,0 +1,26 @@
+#nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #1B262C;
+    padding: 5px;
+}
+
+#nav img {
+    max-width: 159px;
+}
+
+.nav-links {
+    display: flex;
+    align-items: center;
+
+}
+
+.nav-links li {
+    list-style: none;
+    padding: 15px;
+    background-color: #427D9D;
+    border-radius: 20px;
+    margin-right: 1em;
+}
+
